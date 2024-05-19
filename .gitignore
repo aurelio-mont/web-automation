@@ -1,0 +1,5 @@
+.venv
+build
+chromewebdriver
+dist
+*.spec
